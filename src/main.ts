@@ -9,7 +9,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <figure><img class="w-60 h-30" src="https://media.istockphoto.com/id/846288120/photo/modern-glass-silhouettes-of-skyscrapers.jpg?b=1&s=170667a&w=0&k=20&c=J0m_o6pI6NGd6yi49IN5gGituaCh0-SIgxtk4Okdqa0=" alt="Album"/></figure>
     <div class="card-body">
       <h1 class="font-sans font-bold text-2xl">Login Page</h1>
-      <p>Joko</p>
 
  <form onsubmit="return false">
       <input type="text" placeholder="Username" id="username" class="input input-bordered w-full max-w-xs mt-8" required/>
